@@ -1,0 +1,42 @@
+[
+  {
+    "comidas": [
+      "Banana",
+      "Morango",
+      "Chocolate",
+      "Carne",
+      "Arroz",
+      "Batata",
+      "Frango"
+    ]
+  },
+  {
+    "lugares": ["Mississipi", "Everest", "Himalaias", "Andes", "Nilo"]
+  },
+  {
+    "marcas": ["Nike", "Avon", "Colgate", "Pepsi", "Nintendo"]
+  },
+  {
+    "objeto": ["faca", "casa", "celular", "telefone", "cadeira", "porta"]
+  },
+  {
+    "mitologia": ["Saci", "Iara", "Curupira", "Zeus", "Afrodite", "Aquiles"]
+  },
+  {
+    "feriado": ["Carnaval", "Natal"]
+  },
+  {
+    "espaco": [
+      "sol",
+      "lua",
+      "terra",
+      "Marte",
+      "Saturno",
+      "Galaxia",
+      "Universo",
+      "Planeta",
+      "Cometa",
+      "Estrala"
+    ]
+  }
+]
